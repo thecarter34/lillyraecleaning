@@ -649,6 +649,10 @@ footer {
   color: #ff69b4;
   margin-bottom: 20px;
 }
+.payment-list {
+  font-size: 0.95rem;
+  margin-bottom: 10px;
+}
 footer p,
 footer ul li {
   font-size: 0.95rem;
